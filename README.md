@@ -1,5 +1,5 @@
 # IPED-3.13.5
-Pericia Digital Forense ( PDF)
+Pericia  Forense Digital  ( PFD)
 - Detecção de itens 7zip cifrados que omitem nomes dos subitens
 - Habilita ignoreHardLinks por padrão em sistemas de arquivo HFS+
 - Expõe novamente opção textSplitSize no AdvancedConfig.txt
